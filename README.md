@@ -1,7 +1,7 @@
 # Exploring Multimodal Diffusion Transformers for Enhanced Prompt-based Image Editing
 
 <p align="center">
-  <img src="exploring-mmdit-web/static/images/teaser.png" alt="Teaser image" />
+  <img src="assets/teaser.png" alt="Teaser image" />
   <br/>
   <em>ICCV 2025</em>
 </p>
@@ -15,7 +15,7 @@
 
 ## Code
 
-**Code: Coming Soon!**
+**Coming Soon!**
 
 ---
 

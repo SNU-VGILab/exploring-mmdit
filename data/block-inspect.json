@@ -1,0 +1,752 @@
+[
+  {
+      "idx": 2,
+      "prompt": "A black dog sitting on a wooden chair. A white cat with black ears is standing up with its paws on the chair.",
+      "words": [
+          "dog",
+          "chair.",
+          "white cat"
+      ]
+  },
+  {
+      "idx": 3,
+      "prompt": "a cat patting a crystal ball with the number 7 written on it in black marker",
+      "words": [
+          "cat",
+          "crystal ball"
+      ]
+  },
+  {
+      "idx": 4,
+      "prompt": "a barred owl peeking out from dense tree branches",
+      "words": [
+          "owl"
+      ]
+  },
+  {
+      "idx": 5,
+      "prompt": "a cat sitting on a stairway railing",
+      "words": [
+          "cat",
+          "stairway"
+      ]
+  },
+  {
+      "idx": 6,
+      "prompt": "a cat drinking a pint of beer",
+      "words": [
+          "beer"
+      ]
+  },
+  {
+      "idx": 8,
+      "prompt": "a black dog sitting between a bush and a pair of green pants standing up with nobody inside them",
+      "words": [
+          "black dog",
+          "bush"
+      ]
+  },
+  {
+      "idx": 9,
+      "prompt": "a close-up of a blue dragonfly on a daffodil",
+      "words": [
+          "dragonfly",
+          "daffodil"
+      ]
+  },
+  {
+      "idx": 10,
+      "prompt": "A close-up of two beetles wearing karate uniforms and fighting, jumping over a waterfall.",
+      "words": [
+          "beetles",
+          "karate uniforms"
+      ]
+  },
+  {
+      "idx": 11,
+      "prompt": "a basketball game between a team of four cats and a team of three dogs",
+      "words": [
+          "basketball"
+      ]
+  },
+  {
+      "idx": 12,
+      "prompt": "a bird standing on a stick",
+      "words": [
+          "bird"
+      ]
+  },
+  {
+      "idx": 13,
+      "prompt": "a cat jumping in the air",
+      "words": [
+          "cat"
+      ]
+  },
+  {
+      "idx": 15,
+      "prompt": "A cartoon tiger face",
+      "words": [
+          "tiger"
+      ]
+  },
+  {
+      "idx": 16,
+      "prompt": "a dog wearing a baseball cap backwards and writing BONEZ on a chalkboard",
+      "words": [
+          "dog",
+          "cap"
+      ]
+  },
+  {
+      "idx": 17,
+      "prompt": "a basketball to the left of two soccer balls on a gravel driveway",
+      "words": [
+          "basketball"
+      ]
+  },
+  {
+      "idx": 18,
+      "prompt": "a photograph of a fiddle next to a basketball on a ping pong table",
+      "words": [
+          "fiddle",
+          "basketball"
+      ]
+  },
+  {
+      "idx": 19,
+      "prompt": "a black baseball hat with a flame decal on it",
+      "words": [
+          "hat"
+      ]
+  },
+  {
+      "idx": 20,
+      "prompt": "a doorknocker shaped like a lion's head",
+      "words": [
+          "doorknocker",
+          "lion's"
+      ]
+  },
+  {
+      "idx": 21,
+      "prompt": "a coffee mug floating in the sky",
+      "words": [
+          "mug",
+          "sky"
+      ]
+  },
+  {
+      "idx": 22,
+      "prompt": "a bench without any cats on it",
+      "words": [
+          "bench"
+      ]
+  },
+  {
+      "idx": 23,
+      "prompt": "a harp without any strings",
+      "words": [
+          "harp"
+      ]
+  },
+  {
+      "idx": 24,
+      "prompt": "long shards of a broken mirror reflecting the eyes of a great horned owl",
+      "words": [
+          "owl"
+      ]
+  },
+  {
+      "idx": 25,
+      "prompt": "view of a clock tower from above",
+      "words": [
+          "clock tower"
+      ]
+  },
+  {
+      "idx": 26,
+      "prompt": "a white flag with a red circle next to a solid blue flag",
+      "words": [
+          "red circle"
+      ]
+  },
+  {
+      "idx": 28,
+      "prompt": "a comic about two cats doing research",
+      "words": [
+          "cats"
+      ]
+  },
+  {
+      "idx": 29,
+      "prompt": "a black baseball hat",
+      "words": [
+          "black",
+          "baseball",
+          "hat"
+      ]
+  },
+  {
+      "idx": 30,
+      "prompt": "A castle made of cardboard.",
+      "words": [
+          "castle"
+      ]
+  },
+  {
+      "idx": 31,
+      "prompt": "a footprint shaped like a peanut",
+      "words": [
+          "footprint",
+          "peanut"
+      ]
+  },
+  {
+      "idx": 32,
+      "prompt": "a black t-shirt with the peace sign on it",
+      "words": [
+          "t-shirt",
+          "peace"
+      ]
+  },
+  {
+      "idx": 33,
+      "prompt": "a book with the words 'Don't Panic!' written on it",
+      "words": [
+          "book"
+      ]
+  },
+  {
+      "idx": 34,
+      "prompt": "A raccoon wearing formal clothes, wearing a tophat and holding a cane. The raccoon is holding a garbage bag. Oil painting in the style of abstract cubism.",
+      "words": [
+          "raccoon",
+          "clothes,"
+      ]
+  },
+  {
+      "idx": 35,
+      "prompt": "a young badger delicately sniffing a yellow rose, richly textured oil painting",
+      "words": [
+          "badger",
+          "yellow rose,"
+      ]
+  },
+  {
+      "idx": 36,
+      "prompt": "A tornado made of bees crashing into a skyscraper. painting in the style of Hokusai.",
+      "words": [
+          "skyscraper."
+      ]
+  },
+  {
+      "idx": 37,
+      "prompt": "a drawing of a house on a mountain",
+      "words": [
+          "house"
+      ]
+  },
+  {
+      "idx": 38,
+      "prompt": "a dutch baroque painting of a horse in a field of flowers",
+      "words": [
+          "horse"
+      ]
+  },
+  {
+      "idx": 39,
+      "prompt": "a glass of orange juice to the right of a plate with buttered toast on it",
+      "words": [
+          "glass",
+          "plate",
+          "toast"
+      ]
+  },
+  {
+      "idx": 40,
+      "prompt": "a bloody mary cocktail next to a napkin",
+      "words": [
+          "cocktail"
+      ]
+  },
+  {
+      "idx": 41,
+      "prompt": "a can of Spam on an elegant plate",
+      "words": [
+          "Spam",
+          "plate"
+      ]
+  },
+  {
+      "idx": 42,
+      "prompt": "A bowl of soup that looks like a monster made out of plasticine",
+      "words": [
+          "bowl",
+          "soup",
+          "monster"
+      ]
+  },
+  {
+      "idx": 44,
+      "prompt": "a close-up of a bloody mary cocktail",
+      "words": [
+          "bloody mary cocktail"
+      ]
+  },
+  {
+      "idx": 45,
+      "prompt": "a close-up of an old-fashioned cocktail",
+      "words": [
+          "cocktail"
+      ]
+  },
+  {
+      "idx": 46,
+      "prompt": "three green peppers",
+      "words": [
+          "peppers"
+      ]
+  },
+  {
+      "idx": 49,
+      "prompt": "Two cups of coffee, one with latte art of a heart. The other has latte art of stars.",
+      "words": [
+          "coffee,"
+      ]
+  },
+  {
+      "idx": 50,
+      "prompt": "Two cups of coffee, one with latte art of yin yang symbol. The other has latte art of a heart.",
+      "words": [
+          "coffee,"
+      ]
+  },
+  {
+      "idx": 51,
+      "prompt": "A set of 2x2 emoji icons with happy, angry, surprised and sobbing faces. The emoji icons look like dogs. All of the dogs are wearing blue turtlenecks.",
+      "words": [
+          "emoji",
+          "dogs"
+      ]
+  },
+  {
+      "idx": 52,
+      "prompt": "a kids' book cover with an illustration of white dog driving a red pickup truck",
+      "words": [
+          "dog",
+          "red pickup truck"
+      ]
+  },
+  {
+      "idx": 53,
+      "prompt": "a drawing of a series of musical notes wrapped around the Earth",
+      "words": [
+          "Earth"
+      ]
+  },
+  {
+      "idx": 54,
+      "prompt": "a triangle with a smiling face",
+      "words": [
+          "triangle"
+      ]
+  },
+  {
+      "idx": 56,
+      "prompt": "A green heart with shadow",
+      "words": [
+          "green heart"
+      ]
+  },
+  {
+      "idx": 57,
+      "prompt": "three small yellow boxes",
+      "words": [
+          "boxes"
+      ]
+  },
+  {
+      "idx": 58,
+      "prompt": "A green heart",
+      "words": [
+          "heart"
+      ]
+  },
+  {
+      "idx": 59,
+      "prompt": "A heart made of water",
+      "words": [
+          "heart"
+      ]
+  },
+  {
+      "idx": 60,
+      "prompt": "a cute illustration of a horned owl with a graduation cap and diploma",
+      "words": [
+          "owl"
+      ]
+  },
+  {
+      "idx": 61,
+      "prompt": "a flag with a dinosaur on it",
+      "words": [
+          "flag",
+          "dinosaur"
+      ]
+  },
+  {
+      "idx": 62,
+      "prompt": "G I G G L E painted in thick colorful lettering as graffiti on a faded red brick wall with a splotch of exploding white paint.",
+      "words": [
+          "graffiti",
+          "red brick wall"
+      ]
+  },
+  {
+      "idx": 63,
+      "prompt": "A high resolution photo of a donkey in a clown costume giving a lecture at the front of a lecture hall. The blackboard has mathematical equations on it. There are many students in the lecture hall.",
+      "words": [
+          "clown",
+          "students"
+      ]
+  },
+  {
+      "idx": 64,
+      "prompt": "An empty fireplace with a television above it. The TV shows a lion hugging a giraffe.",
+      "words": [
+          "TV",
+          "giraffe."
+      ]
+  },
+  {
+      "idx": 65,
+      "prompt": "a ceiling fan with an ornate light fixture",
+      "words": [
+          "ceiling fan"
+      ]
+  },
+  {
+      "idx": 66,
+      "prompt": "a small kitchen with a white goat in it",
+      "words": [
+          "white goat"
+      ]
+  },
+  {
+      "idx": 67,
+      "prompt": "a ceiling fan with five brown blades",
+      "words": [
+          "ceiling fan"
+      ]
+  },
+  {
+      "idx": 68,
+      "prompt": "two pianos next to each other",
+      "words": [
+          "pianos"
+      ]
+  },
+  {
+      "idx": 69,
+      "prompt": "a kitchen with a large refrigerator",
+      "words": [
+          "refrigerator"
+      ]
+  },
+  {
+      "idx": 70,
+      "prompt": "A glass of red wine tipped over on a couch, with a stain that writes 'OOPS' on the couch.",
+      "words": [
+          "glass"
+      ]
+  },
+  {
+      "idx": 72,
+      "prompt": "a white bird in front of a dinosaur standing by some trees",
+      "words": [
+          "white bird",
+          "dinosaur"
+      ]
+  },
+  {
+      "idx": 73,
+      "prompt": "a beach with a cruise ship passing by",
+      "words": [
+          "beach",
+          "cruise ship"
+      ]
+  },
+  {
+      "idx": 74,
+      "prompt": "a chemtrail passing between two clouds",
+      "words": [
+          "chemtrail"
+      ]
+  },
+  {
+      "idx": 75,
+      "prompt": "a grand piano next to the net of a tennis court",
+      "words": [
+          "grand piano",
+          "net"
+      ]
+  },
+  {
+      "idx": 76,
+      "prompt": "a peaceful lakeside landscape with migrating herd of sauropods",
+      "words": [
+          "herd of sauropods"
+      ]
+  },
+  {
+      "idx": 78,
+      "prompt": "a view of the Earth from the moon",
+      "words": [
+          "Earth"
+      ]
+  },
+  {
+      "idx": 80,
+      "prompt": "a tennis court with three yellow cones on it",
+      "words": [
+          "tennis court"
+      ]
+  },
+  {
+      "idx": 81,
+      "prompt": "a basketball hoop with a large blue ball stuck in it",
+      "words": [
+          "basketball hoop",
+          "large blue ball"
+      ]
+  },
+  {
+      "idx": 82,
+      "prompt": "a horse in a field of flowers",
+      "words": [
+          "horse",
+          "field of flowers"
+      ]
+  },
+  {
+      "idx": 83,
+      "prompt": "a cloud in the shape of an elephant",
+      "words": [
+          "elephant"
+      ]
+  },
+  {
+      "idx": 84,
+      "prompt": "a painting of a white country home with a wrap-around porch",
+      "words": [
+          "white country home"
+      ]
+  },
+  {
+      "idx": 86,
+      "prompt": "a black dog jumping up to hug a woman wearing a red sweater",
+      "words": [
+          "black dog"
+      ]
+  },
+  {
+      "idx": 87,
+      "prompt": "a grandmother reading a book to her grandson and granddaughter",
+      "words": [
+          "grandmother",
+          "book"
+      ]
+  },
+  {
+      "idx": 88,
+      "prompt": "a child eating a birthday cake near some palm trees",
+      "words": [
+          "birthday cake",
+          "palm trees"
+      ]
+  },
+  {
+      "idx": 89,
+      "prompt": "a cricket team walking on to the pitch",
+      "words": [
+          "cricket team"
+      ]
+  },
+  {
+      "idx": 90,
+      "prompt": "a man riding a cat",
+      "words": [
+          "man"
+      ]
+  },
+  {
+      "idx": 91,
+      "prompt": "A boy holds and a girl paints a piece of wood.",
+      "words": [
+          "boy",
+          "girl"
+      ]
+  },
+  {
+      "idx": 94,
+      "prompt": "two people facing the viewer",
+      "words": [
+          "people"
+      ]
+  },
+  {
+      "idx": 96,
+      "prompt": "a boy going to school",
+      "words": [
+          "boy"
+      ]
+  },
+  {
+      "idx": 97,
+      "prompt": "a father and a son playing tennis",
+      "words": [
+          "father",
+          "son"
+      ]
+  },
+  {
+      "idx": 100,
+      "prompt": "a baby daikon radish in a tutu walking a dog",
+      "words": [
+          "dog"
+      ]
+  },
+  {
+      "idx": 102,
+      "prompt": "a flower with a cat's face in the middle",
+      "words": [
+          "flower",
+          "cat's face"
+      ]
+  },
+  {
+      "idx": 106,
+      "prompt": "a flower with large yellow petals",
+      "words": [
+          "flower"
+      ]
+  },
+  {
+      "idx": 107,
+      "prompt": "A photo of a four-leaf clover made of water.",
+      "words": [
+          "four-leaf clover"
+      ]
+  },
+  {
+      "idx": 108,
+      "prompt": "A photo of a palm tree made of water.",
+      "words": [
+          "palm tree"
+      ]
+  },
+  {
+      "idx": 110,
+      "prompt": "a blue airplane taxiing on a runway with the sun behind it",
+      "words": [
+          "blue airplane"
+      ]
+  },
+  {
+      "idx": 111,
+      "prompt": "a car with tires that have yellow rims",
+      "words": [
+          "car",
+          "tires",
+          "yellow rims"
+      ]
+  },
+  {
+      "idx": 113,
+      "prompt": "a friendly car",
+      "words": [
+          "car"
+      ]
+  },
+  {
+      "idx": 115,
+      "prompt": "an overhead view of a pickup truck with boxes in its flatbed",
+      "words": [
+          "pickup truck",
+          "boxes"
+      ]
+  },
+  {
+      "idx": 116,
+      "prompt": "Three-quarters front view of a blue 1977 Ford F-150 coming around a curve in a mountain road and looking over a green valley on a cloudy day.",
+      "words": [
+          "Ford F-150",
+          "road"
+      ]
+  },
+  {
+      "idx": 118,
+      "prompt": "A green train is coming down the tracks",
+      "words": [
+          "green train"
+      ]
+  },
+  {
+      "idx": 119,
+      "prompt": "a cardboard spaceship",
+      "words": [
+          "cardboard spaceship"
+      ]
+  },
+  {
+      "idx": 121,
+      "prompt": "a hot air balloon with chameleon logo. the sun is shining and puffy white clouds are in the background.",
+      "words": [
+          "air balloon"
+      ]
+  },
+  {
+      "idx": 122,
+      "prompt": "A close-up high-contrast photo of Sydney Opera House sitting next to Eiffel tower, under a blue night sky of roiling energy, exploding yellow stars, and radiating swirls of blue",
+      "words": [
+          "Sydney Opera House",
+          "Eiffel tower,",
+          "blue night sky"
+      ]
+  },
+  {
+      "idx": 123,
+      "prompt": "a painting of the mona lisa on a white wall",
+      "words": [
+          "mona lisa",
+          "white wall"
+      ]
+  },
+  {
+      "idx": 124,
+      "prompt": "A blue Porsche 356 parked in front of a yellow brick wall",
+      "words": [
+          "Porsche",
+          "yellow brick wall"
+      ]
+  },
+  {
+      "idx": 125,
+      "prompt": "a diplodocus standing in front of the Millennium Wheel",
+      "words": [
+          "diplodocus",
+          "Millennium Wheel"
+      ]
+  },
+  {
+      "idx": 127,
+      "prompt": "A smiling sloth is wearing a leather jacket, a cowboy hat, a kilt and a bowtie. The sloth is holding a quarterstaff and a big book. The sloth is standing on grass a few feet in front of a shiny VW van with flowers painted on it. wide-angle lens from below.",
+      "words": [
+          "sloth",
+          "leather jacket,",
+          "cowboy hat,",
+          "VW van"
+      ]
+  }
+]

@@ -99,7 +99,7 @@ See [`examples/`](examples/) for Jupyter notebooks demonstrating various use cas
 
 ## Notes
 
-This codebase was refactored from the original research code to be compatible with recent diffusers and transformers versions. LLMs were used in some portions of the refactoring process. If you encounter any issues, please let us know via [GitHub Issues](https://github.com/joonghyuk/exploring-mmdit/issues).
+This codebase was refactored from the original research code to be compatible with recent diffusers and transformers versions. LLMs were used in some portions of the refactoring process. If you encounter any issues, please let us know via [GitHub Issues](https://github.com/SNU-VGILab/exploring-mmdit/issues).
 
 ## BibTeX
 
